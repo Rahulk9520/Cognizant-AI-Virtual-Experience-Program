@@ -1,5 +1,6 @@
 # Cognizant-AI-Virtual-Experience-Program
-## Enrolled in 'Artificial Intelligence Virtual Experience Program' by Cognizant as a 'Data Scientist' with affiliation to 'Forage Australia'. Worked on a business problem statement with 'Gala Groceries' by Implementing Data Wrangling and gained insights for optimizing the required business problem while contributing recommendations for the given business problem.
+
+**Enrolled in 'Artificial Intelligence Virtual Experience Program' by `Cognizant` as a 'Data Scientist' with affiliation to `Forage Australia`. Worked on a business problem statement with 'Gala Groceries' by Implementing Data Wrangling and gained insights for optimizing the required business problem while contributing recommendations for the given business problem.**
 * Built a `Unified Modelling Language (UML) Diagram` for business strategic planning.
 * Incorporated data exploration, data cleaning & data Merging (`Data Wrangling`).
 * Performed `feature engineering` & used `k-fold cross validation`.
